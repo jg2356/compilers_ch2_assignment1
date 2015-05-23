@@ -5,7 +5,7 @@ import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
 
 
-public class RSSCore {
+public class RSS {
 
 	public static void main(String[] args) throws Exception {
 		ANTLRInputStream input = new ANTLRInputStream(System.in);
